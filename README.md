@@ -16,7 +16,7 @@
 - 🌱 Focusing on **Java, HTML, CSS, JavaScript & MySQL**
 - 👯 Looking to collaborate on **Learning Projects**
 - 💬 Ask me about **Java, HTML, CSS, JavaScript, MySQL**
-- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/abhish001/)**
+- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/abhishekh-vishwakarma-13aa1b297/)**
 - ⚡ Fun fact: **Future Java Full Stack Developer in making!**
 
 <br clear="both">
@@ -55,28 +55,27 @@
 
 ---
 
-# 📊 GitHub Stats:
+# 📊 GitHub Stats
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=rekandlal&theme=aura_dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rekandlal&theme=aura_dark&hide_border=false&include_all_commits=true&count_private=false)
+
 ![](https://nirzak-streak-stats.vercel.app/?user=rekandlal&theme=aura_dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rekandlal&theme=aura_dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-</div>
-
-## 🏆 GitHub Achievements
-<div align="center">
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=abhish001&theme=darkhub&column=4&margin-w=15&margin-h=15&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rekandlal&theme=aura_dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 </div>
 
 ---
 
-## 📈 Contribution Graph
+## 📊 Coding Activity
 <div align="center">
-  
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abhish001&theme=rogue&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+### 📈 Contribution Graph
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=rekandlal&theme=aura_dark&hide_border=true&bg_color=00000000&color=f87171&line=f87171&point=f87171&area_color=f87171&title_color=f87171)
+
+### 🏆 Profile Stats
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rekandlal&theme=aura_dark" alt="Profile Summary" />
 
 </div>
 
@@ -99,7 +98,7 @@
 
 ### 💫 "Turning caffeine into code, one commit at a time"
 
-<img src="https://komarev.com/ghpvc/?username=abhish001&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=rekandlal&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 
 </div>
 
@@ -107,6 +106,6 @@
 
 <div align="center">
   
-**⭐️ From [abhish001](https://github.com/abhish001) with ❤️**
+**⭐️ From [rekandlal](https://github.com/rekandlal) with ❤️**
 
 </div>
